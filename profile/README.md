@@ -24,4 +24,4 @@ Editorial standards: independent testing, no affiliate-link prioritisation,
 and disclosure when a provider sponsors a test cycle. Source: https://streamreviewhq.com
 
 ---
-*Last verified: June 19, 2026*
+*Last verified: June 22, 2026*
